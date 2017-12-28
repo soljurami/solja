@@ -1,0 +1,55 @@
+*{
+  margin-left: 0px 2px;
+}
+header{
+  color:red;
+  font-size: 75px;
+    text-align: center;
+  padding: 10px ;
+}
+
+body {  
+background-image:url("../imagenes/el caya.jpg");
+background-repeat: no-repeat;
+background-size: 1600px;
+background-attachment:fixed;
+}
+
+img{
+  width: 350px;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+}
+
+h1{
+  font-size: 40px;
+  margin-left: 10px;
+  text-align: left; 
+  text-align: top;
+}
+
+h2{
+  font-size: 35px;
+  margin-left: 10px;
+  font-family: Times New Roman;
+}
+
+p{
+  
+  font-size: 40PX;
+  font-family: Times New Roman;
+  font-style: border;
+  margin-left: 10px;
+
+}  
+
+
+      
+
+  
+
+
+
+
+
