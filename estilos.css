@@ -9,6 +9,7 @@ header{
 }
 
 body {  
+ background-image: url("alba.jpg");
 background-repeat: no-repeat;
 background-size: 1600px;
 background-attachment:fixed;
