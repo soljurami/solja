@@ -10,7 +10,7 @@ background-attachment:fixed;
 }
 
 header{
-  color:red;
+  color:blue;
   font-size: 50px;
   text-align: center;
   }
@@ -26,12 +26,13 @@ img{
 h1{
   font-size: 40px;
  font-family: Times New Roman;
-
+color:lightblue;
 }
 
 h2{
 Font-size:30px;
   font-family: Times New Roman;
+  color:green;
 }
 
 h3{
