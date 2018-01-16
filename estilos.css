@@ -1,8 +1,9 @@
 *{
-  margin-left: 0px 0px;
+  margin-left: 1px;
+  padding: 1px;
 }
-body {  
- background-image: url("alba.jpg");
+body{  
+background-image: url("alba.jpg");
 background-repeat: no-repeat;
 background-size: 1550px;
 background-attachment:fixed;
@@ -11,9 +12,8 @@ background-attachment:fixed;
 header{
   color:red;
   font-size: 50px;
-    text-align: center;
-  padding: 10px ;
-}
+  text-align: center;
+  }
 
 
 img{
@@ -24,19 +24,19 @@ img{
 }
 
 h1{
-  
-  text-align: left; 
-  text-align: top;
+  font-size: 40px;
+ font-family: Times New Roman;
+
 }
 
 h2{
-
+Font-size:30px;
   font-family: Times New Roman;
 }
 
 h3{
   
-  font-size: PX;
+  font-size: 20PX;
   font-family: Times New Roman;
   font-style: border;
   margin-left: 10px;
