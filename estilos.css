@@ -1,6 +1,13 @@
 *{
   margin-left: 0px 2px;
 }
+body {  
+ background-image: url("alba.jpg");
+background-repeat: no-repeat;
+background-size: 1600px;
+background-attachment:fixed;
+}
+
 header{
   color:red;
   font-size: 50px;
@@ -8,12 +15,6 @@ header{
   padding: 10px ;
 }
 
-body {  
- background-image: url("alba.jpg");
-background-repeat: no-repeat;
-background-size: 1600px;
-background-attachment:fixed;
-}
 
 img{
   width: 350px;
