@@ -24,19 +24,17 @@ img{
 }
 
 h1{
-  font-size: 30px;
-  margin-left: 10px;
+  
   text-align: left; 
   text-align: top;
 }
 
 h2{
-  font-size: 20px;
-  margin-left: 10px;
+
   font-family: Times New Roman;
 }
 
-p{
+h3{
   
   font-size: PX;
   font-family: Times New Roman;
