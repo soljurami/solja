@@ -3,6 +3,8 @@
   padding: 1px;
 }
 body{  
+   width: 100%;
+    height: 400px;
 background-image: url("alba.jpg");
 background-repeat: no-repeat;
 background-size: 1550px;
