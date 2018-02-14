@@ -3,11 +3,10 @@
   padding: 1px;
 }
 body{  
-   width: auto;
-    height: 400px;
+width: auto;
+height: 400px;
 background-image: url("alba.jpg");
 background-repeat: no-repeat;
-background-size: 1550px;
 background-attachment:fixed;
 }
 
