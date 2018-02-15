@@ -2,14 +2,12 @@
   margin-left: 1px;
   padding: 1px;
 }
-body{  
-width: auto;
-height: 1400px;
+
+body {
 background-image: url("alba.jpg");
 background-repeat: no-repeat;
-background-attachment:fixed;
-background-position: right top;
-   
+background-size: 1500px;
+background-attachment:fixed;   
 }
 
 header{
@@ -20,8 +18,8 @@ header{
 
 
 img{
-  width: 350px;
-  height: auto;
+  width: 250px;
+  height: 100%;
   border-radius: 10px;
 }
 
